@@ -1,0 +1,262 @@
+{
+  "key":"ppi-tanzania-2012",
+  "name":"PPI Survey for the Tanzania, version 2012",
+  "description":null,
+  "countryCode":"TZ",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"members-under-17",
+      "text":"How many household members are 17-years-old or younger?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Four or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":10
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":15,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. One",
+          "value":20,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. None",
+          "value":30,
+          "sequenceNo":5
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Do all children ages 6-17 attend school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, or no children ages 6 to 17",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-read",
+      "text":"Can the female head/spouse read and write?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, but not in Kiswahili nor English",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No female head/spouse",
+          "value":0,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Yes, only in Kishwahili ",
+          "value": 6,
+          "sequenceNo":4
+        }
+        {
+          "text": "E. Yes, in English (regardless of others)",
+          "value": 13,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"floor-building-material",
+      "text":"What is the main building material of the floor of the main dwelling?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Earth",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Concrete, cement, tiles, timber, or other",
+          "value":11,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-building-material",
+      "text":"What is the main building material of the roof of the main dwelling?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Mud and grass",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Grass, leaves, bamboo",
+          "value":8,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Concrete, cement, metal sheets(GCI), asbestos sheets, tiles, or other",
+          "value":9,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"vehicles-owned",
+      "text":"How many bicycles, mopeds, motorcycles, tractors, or motor vehicles does your household own?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":11,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"radios-owned",
+      "text":"Does your household own any radios or radio cassettes?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"lanterns-owned",
+      "text":"Does your household own any lanterns?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"irons-owned",
+      "text":"Does the family own any irons (charcoal or electric)?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"tables-owned",
+      "text":"How many tables does your household own?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three or more",
+          "value":6,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}

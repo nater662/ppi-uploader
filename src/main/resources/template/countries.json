@@ -2,5 +2,13 @@
   {
     "name": "Philippines",
     "countryCode": "PH"
+  },
+  {
+    "name": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "name": "Tanzania",
+    "countryCode": "TZ"
   }
 ]
