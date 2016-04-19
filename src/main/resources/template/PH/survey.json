@@ -271,13 +271,13 @@
     {
       "componentKey":null,
       "key":"telephones-cellphones",
-      "text":"How many telephones/cellphones does the family",
+      "text":"How many telephones/cellphones does the family own?",
       "description":null,
       "sequenceNo":10,
       "responseDatas":
       [
         {
-          "text":"A. Nono",
+          "text":"A. None",
           "value":0,
           "sequenceNo":1
         },
@@ -294,7 +294,7 @@
         {
           "text":"D. Three or more",
           "value":12,
-          "sequenceNo":3
+          "sequenceNo":4
         }
       ]
     }
