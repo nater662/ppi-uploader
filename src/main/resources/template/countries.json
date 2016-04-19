@@ -10,5 +10,9 @@
   {
     "name": "Philippines",
     "countryCode": "PH"
+  },
+  {
+    "name": "Uganda",
+    "countryCode": "UG"
   }
 ]
